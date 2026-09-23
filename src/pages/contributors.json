@@ -1,13 +1,20 @@
 {
-  "total": 13,
+  "total": 15,
   "offset": 0,
-  "limit": 13,
+  "limit": 15,
   "data": [
     {
       "page": "/",
       "avatars": [
         "https://avatars.githubusercontent.com/u/31863114?v=4",
         "https://avatars.githubusercontent.com/u/153588552?v=4"
+      ],
+      "lastUpdated": "9/23/2026"
+    },
+    {
+      "page": "/after-effects-api/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/31863114?v=4"
       ],
       "lastUpdated": "9/23/2026"
     },
@@ -30,6 +37,13 @@
       "avatars": [
         "https://avatars.githubusercontent.com/u/31863114?v=4",
         "https://avatars.githubusercontent.com/u/153588552?v=4"
+      ],
+      "lastUpdated": "9/23/2026"
+    },
+    {
+      "page": "/get-started/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/31863114?v=4"
       ],
       "lastUpdated": "9/23/2026"
     },
