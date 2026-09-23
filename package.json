@@ -1,14 +1,14 @@
 {
-  "name": "dev-docs-template",
+  "name": "uxp-after-effects",
   "version": "1.0.0",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/dev-docs-template"
+    "url": "https://github.com/AdobeDocs/uxp-after-effects.git"
   },
   "author": {
-    "name": "Tim Kim",
-    "url": "https://github.com/timkim"
+    "name": "AdobeDocs",
+    "url": "https://github.com/AdobeDocs"
   },
   "engines": {
     "node": "^24.11.0"
