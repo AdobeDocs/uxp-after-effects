@@ -5,7 +5,7 @@ contributors:
   - https://github.com/AdobeDocs/uxp-after-effects
 ---
 
-<Superhero slots="heading, text"/>
+<Superhero variant="halfWidth" textColor="white" slots="heading, text, image" background="linear-gradient(135deg, #24104F 0%, #5C2B91 100%)"/>
 
 # Extend the Power of After Effects
 
