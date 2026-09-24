@@ -1,0 +1,14 @@
+{
+  "total": 1,
+  "offset": 0,
+  "limit": 1,
+  "data": [
+    {
+      "bgColor": "info",
+      "icon": "info",
+      "text": ["This is an early preview of the After Effects UXP scripting API reference and developer documentation. Content is actively being updated."],
+      "isClose": true
+    }
+  ],
+  ":type": "sheet"
+}
