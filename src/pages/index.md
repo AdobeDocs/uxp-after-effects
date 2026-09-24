@@ -13,10 +13,6 @@ Extend the application with plugins, scripts, and panels that integrate into exi
 
 ![Build UXP plugins for Adobe After Effects](images/hero.svg)
 
-<InlineAlert variant="info" slots="text"/>
-
-UXP for Adobe After Effects is in public beta. APIs and supported capabilities may change before general availability.
-
 <Resources slots="heading, links"/>
 
 #### Resources
