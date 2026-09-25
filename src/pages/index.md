@@ -48,7 +48,7 @@ Walk through the full developer journey: build your first plugin, learn the plat
 
 ### Use the After Effects API
 
-Explore the After Effects API reference as host-specific documentation becomes available.
+Explore the After Effects API reference for application, project item, layer, property, file, font, import option, and settings APIs.
 
 [View the After Effects API](after-effects-api/index.md)
 
@@ -62,7 +62,7 @@ Plugins use both shared UXP APIs and host-specific After Effects APIs. The share
 
 [After Effects API Reference](after-effects-api/index.md)
 
-The After Effects API reference will be added here as host-specific documentation becomes available.
+Application, project item, layer, property, file source, font, import option, and settings APIs for After Effects plugins.
 
 <DiscoverBlock slots="link, text"/>
 
