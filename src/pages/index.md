@@ -1,8 +1,17 @@
 ---
-title: Overview
-description: Adobe After Effects UXP documentation overview
+title: UXP for Adobe After Effects
+description: "Build UXP plugins for Adobe After Effects: create panels, automate workflows, and use the After Effects scripting API with HTML, CSS, and JavaScript."
+keywords:
+  - UXP
+  - Adobe UXP
+  - Adobe After Effects
+  - After Effects plugins
+  - After Effects scripting API
+  - UXP Developer Tool
+  - UXP panels
+  - workflow automation
 contributors:
-  - https://github.com/AdobeDocs/uxp-after-effects
+  - https://github.com/kasivn
 ---
 
 <Superhero variant="halfWidth" textColor="white" slots="heading, text, image" background="linear-gradient(135deg, #24104F 0%, #5C2B91 100%)"/>
