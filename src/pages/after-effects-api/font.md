@@ -1,6 +1,6 @@
 ---
 id: "font"
-title: "Font"
+title: Font
 description: "Provides information about a specific font and the font technology used, helping disambiguate fonts that share a PostScript name."
 sidebar_label: "Font"
 repo: "uxp-aftereffects"

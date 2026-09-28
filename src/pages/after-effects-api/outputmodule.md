@@ -1,6 +1,6 @@
 ---
 id: "outputmodule"
-title: "OutputModule"
+title: OutputModule
 description: "Represents an output module belonging to a render-queue item, used to configure how a render is saved."
 sidebar_label: "OutputModule"
 repo: "uxp-aftereffects"

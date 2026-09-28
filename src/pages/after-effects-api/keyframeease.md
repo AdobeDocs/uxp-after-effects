@@ -1,6 +1,6 @@
 ---
 id: "keyframeease"
-title: "KeyframeEase"
+title: KeyframeEase
 description: "Represents the ease value applied to one dimension of a property's keyframe."
 sidebar_label: "KeyframeEase"
 repo: "uxp-aftereffects"

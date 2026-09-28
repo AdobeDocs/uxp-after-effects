@@ -1,6 +1,6 @@
 ---
 id: "viewer"
-title: "Viewer"
+title: Viewer
 description: "Represents a viewer panel, such as the Composition, Layer, or Footage panel."
 sidebar_label: "Viewer"
 repo: "uxp-aftereffects"

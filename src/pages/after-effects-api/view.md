@@ -1,6 +1,6 @@
 ---
 id: "view"
-title: "View"
+title: View
 description: "Represents a view displayed in a Viewer panel."
 sidebar_label: "View"
 repo: "uxp-aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "guideoptions"
-title: "GuideOptions"
+title: GuideOptions
 description: "Represents a single guide added to a composition's viewer."
 sidebar_label: "GuideOptions"
 repo: "uxp-aftereffects"

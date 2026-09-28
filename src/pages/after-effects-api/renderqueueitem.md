@@ -1,6 +1,6 @@
 ---
 id: "renderqueueitem"
-title: "RenderQueueItem"
+title: RenderQueueItem
 description: "Represents a composition queued for rendering in the render queue."
 sidebar_label: "RenderQueueItem"
 repo: "uxp-aftereffects"

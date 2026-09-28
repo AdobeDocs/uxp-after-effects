@@ -1,6 +1,6 @@
 ---
 id: "rqitemcollection"
-title: "RQItemCollection"
+title: RQItemCollection
 description: "Represents a collection of items in the render queue."
 sidebar_label: "RQItemCollection"
 repo: "uxp-aftereffects"

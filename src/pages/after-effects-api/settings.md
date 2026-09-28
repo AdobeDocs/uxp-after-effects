@@ -1,6 +1,6 @@
 ---
 id: "settings"
-title: "Settings"
+title: Settings
 description: "Provides an easy way to manage settings for third-party scripts, persisted in the After Effects preferences file."
 sidebar_label: "Settings"
 repo: "uxp-aftereffects"

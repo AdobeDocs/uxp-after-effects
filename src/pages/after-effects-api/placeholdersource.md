@@ -1,6 +1,6 @@
 ---
 id: "placeholdersource"
-title: "PlaceholderSource"
+title: PlaceholderSource
 description: "Represents the source of a placeholder footage item used when the original media is unavailable."
 sidebar_label: "PlaceholderSource"
 repo: "uxp-aftereffects"

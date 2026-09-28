@@ -1,6 +1,6 @@
 ---
 id: "layer"
-title: "Layer"
+title: Layer
 description: "Provides access to layers within compositions."
 sidebar_label: "Layer"
 repo: "uxp-aftereffects"

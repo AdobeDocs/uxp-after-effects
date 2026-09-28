@@ -1,6 +1,6 @@
 ---
 id: "solidsource"
-title: "SolidSource"
+title: SolidSource
 description: "Represents the source of a solid-color footage item."
 sidebar_label: "SolidSource"
 repo: "uxp-aftereffects"

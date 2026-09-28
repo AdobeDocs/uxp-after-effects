@@ -1,6 +1,6 @@
 ---
 id: "textdocument"
-title: "TextDocument"
+title: TextDocument
 description: "Represents the text and formatting in a Text layer's Source Text property."
 sidebar_label: "TextDocument"
 repo: "uxp-aftereffects"

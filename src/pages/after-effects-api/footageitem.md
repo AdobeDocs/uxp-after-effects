@@ -1,6 +1,6 @@
 ---
 id: "footageitem"
-title: "FootageItem"
+title: FootageItem
 description: "Represents an imported file or a solid color used as a layer source in a composition."
 sidebar_label: "FootageItem"
 repo: "uxp-aftereffects"

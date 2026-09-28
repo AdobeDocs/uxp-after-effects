@@ -1,6 +1,6 @@
 ---
 id: "deferredcall"
-title: "DeferredCall"
+title: DeferredCall
 description: "Represents an asynchronous call to a function, deferred until the current script call stack has cleared."
 sidebar_label: "DeferredCall"
 repo: "uxp-aftereffects"

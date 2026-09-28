@@ -1,6 +1,6 @@
 ---
 id: "shape"
-title: "Shape"
+title: Shape
 description: "Represents the outline shape used by a mask or shape layer path property."
 sidebar_label: "Shape"
 repo: "uxp-aftereffects"
