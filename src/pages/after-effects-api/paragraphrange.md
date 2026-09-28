@@ -1,6 +1,6 @@
 ---
 id: "paragraphrange"
-title: "ParagraphRange"
+title: ParagraphRange
 description: "Represents a single paragraph's worth of text in a Text layer's source text, used to read and set paragraph-level styling."
 sidebar_label: "ParagraphRange"
 repo: "uxp-aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "filesource"
-title: "FileSource"
+title: FileSource
 description: "Describes footage that comes from a file."
 sidebar_label: "FileSource"
 repo: "uxp-aftereffects"

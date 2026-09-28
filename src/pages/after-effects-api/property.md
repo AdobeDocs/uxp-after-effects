@@ -1,6 +1,6 @@
 ---
 id: "property"
-title: "Property"
+title: Property
 description: "Contains value, keyframe, and expression information about a particular AE property of a layer."
 sidebar_label: "Property"
 repo: "uxp-aftereffects"

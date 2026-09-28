@@ -1,6 +1,6 @@
 ---
 id: "itemcollection"
-title: "ItemCollection"
+title: ItemCollection
 description: "Represents a collection of Items, such as all the items in a project or in a folder."
 sidebar_label: "ItemCollection"
 repo: "uxp-aftereffects"

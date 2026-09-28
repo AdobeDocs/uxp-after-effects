@@ -1,6 +1,6 @@
 ---
 id: "maskpropertygroup"
-title: "MaskPropertyGroup"
+title: MaskPropertyGroup
 description: "Represents a group of related mask properties within a layer."
 sidebar_label: "MaskPropertyGroup"
 repo: "uxp-aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "fonts"
-title: "Fonts"
+title: Fonts
 description: "Provides information about the current font ecosystem on the user's device."
 sidebar_label: "Fonts"
 repo: "uxp-aftereffects"

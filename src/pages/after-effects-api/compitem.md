@@ -1,6 +1,6 @@
 ---
 id: "compitem"
-title: "CompItem"
+title: CompItem
 description: "Represents a composition item within a project, used to access and modify composition settings and layers."
 sidebar_label: "CompItem"
 repo: "uxp-aftereffects"

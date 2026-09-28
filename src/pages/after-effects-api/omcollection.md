@@ -1,6 +1,6 @@
 ---
 id: "omcollection"
-title: "OMCollection"
+title: OMCollection
 description: "Represents a collection of output modules in a render-queue item."
 sidebar_label: "OMCollection"
 repo: "uxp-aftereffects"

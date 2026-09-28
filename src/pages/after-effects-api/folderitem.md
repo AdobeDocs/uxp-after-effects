@@ -1,6 +1,6 @@
 ---
 id: "folderitem"
-title: "FolderItem"
+title: FolderItem
 description: "Represents a folder in a project that can contain other items."
 sidebar_label: "FolderItem"
 repo: "uxp-aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "renderqueue"
-title: "RenderQueue"
+title: RenderQueue
 description: "Represents the After Effects render queue, used to queue and manage compositions for rendering."
 sidebar_label: "RenderQueue"
 repo: "uxp-aftereffects"

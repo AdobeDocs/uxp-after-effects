@@ -1,6 +1,6 @@
 ---
 id: "importoptions"
-title: "ImportOptions"
+title: ImportOptions
 description: "Encapsulates the options used to import a file with Project.importFile()."
 sidebar_label: "ImportOptions"
 repo: "uxp-aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "characterrange"
-title: "CharacterRange"
+title: CharacterRange
 description: "Represents a range of characters within a Text layer's source text, used to read and set character-level text styling."
 sidebar_label: "CharacterRange"
 repo: "uxp-aftereffects"

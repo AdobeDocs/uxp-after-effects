@@ -1,6 +1,6 @@
 ---
 id: "viewoptions"
-title: "ViewOptions"
+title: ViewOptions
 description: "Represents the display options for a View within a Viewer panel."
 sidebar_label: "ViewOptions"
 repo: "uxp-aftereffects"

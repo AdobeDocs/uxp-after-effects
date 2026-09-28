@@ -1,6 +1,6 @@
 ---
 id: "markervalue"
-title: "MarkerValue"
+title: MarkerValue
 description: "Represents a layer marker, used to associate a comment or navigation cue with a point in time."
 sidebar_label: "MarkerValue"
 repo: "uxp-aftereffects"

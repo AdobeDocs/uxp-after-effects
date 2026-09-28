@@ -1,6 +1,6 @@
 ---
 id: "composedlinerange"
-title: "ComposedLineRange"
+title: ComposedLineRange
 description: "Represents a range of characters that form a single composed line of paragraph text in a Text layer."
 sidebar_label: "ComposedLineRange"
 repo: "uxp-aftereffects"

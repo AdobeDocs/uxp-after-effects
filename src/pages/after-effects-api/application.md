@@ -1,6 +1,6 @@
 ---
 id: "application"
-title: "Application"
+title: Application
 description: "Provides access to objects and application settings within the After Effects application; the single global object, always available as app."
 sidebar_label: "Application"
 repo: "uxp-aftereffects"
