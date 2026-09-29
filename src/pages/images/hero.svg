@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none" role="img" aria-labelledby="ae-hero-title">
+  <title id="ae-hero-title">After Effects composition workspace with a layered 3D motion graphic</title>
+  <defs>
+    <linearGradient id="ae-panel" x1="150" y1="100" x2="690" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A104F"/>
+      <stop offset="1" stop-color="#100620"/>
+    </linearGradient>
+    <linearGradient id="ae-art" x1="390" y1="210" x2="580" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6DB4"/>
+      <stop offset="1" stop-color="#8F6CFF"/>
+    </linearGradient>
+    <filter id="ae-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="25" flood-color="#10051F" flood-opacity="0.45"/>
+    </filter>
+    <filter id="ae-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <clipPath id="ae-panel-clip"><rect x="112" y="82" width="590" height="438" rx="24"/></clipPath>
+  </defs>
+
+  <g transform="translate(-10 -8) scale(1.05)">
+
+  <g filter="url(#ae-shadow)">
+    <rect x="112" y="82" width="590" height="438" rx="24" fill="url(#ae-panel)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  </g>
+
+  <g clip-path="url(#ae-panel-clip)">
+    <rect x="112" y="82" width="590" height="48" fill="#18082F"/>
+    <circle cx="144" cy="106" r="7" fill="#FF5F57"/>
+    <circle cx="168" cy="106" r="7" fill="#FFBD2E"/>
+    <circle cx="192" cy="106" r="7" fill="#28C840"/>
+    <line x1="112" y1="130" x2="702" y2="130" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+    <rect x="136" y="158" width="142" height="212" rx="12" fill="#1B0A39" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <g stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round">
+      <path d="M158 190 h76"/><path d="M158 226 h58"/><path d="M158 262 h72"/><path d="M158 298 h48"/><path d="M158 334 h68"/>
+    </g>
+    <g fill="#FF5FAD">
+      <circle cx="151" cy="188" r="4"/><circle cx="151" cy="224" r="4"/><circle cx="151" cy="260" r="4"/><circle cx="151" cy="296" r="4"/><circle cx="151" cy="332" r="4"/>
+    </g>
+
+    <rect x="306" y="158" width="372" height="212" rx="14" fill="#080313" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <circle cx="490" cy="272" r="118" fill="#FF4F9A" opacity="0.06" filter="url(#ae-glow)"/>
+    <rect x="390" y="228" width="178" height="112" rx="18" fill="#FFFFFF" opacity="0.13"/>
+    <rect x="414" y="206" width="178" height="112" rx="18" fill="url(#ae-art)" opacity="0.92"/>
+    <g stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1">
+      <path d="M490 170 V360"/><path d="M330 275 H650"/>
+    </g>
+
+    <rect x="136" y="402" width="542" height="108" rx="14" fill="#0C051B" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <g stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="1">
+      <path d="M278 420 V492"/><path d="M382 420 V492"/><path d="M486 420 V492"/><path d="M590 420 V492"/>
+    </g>
+    <g fill="#FFFFFF" opacity="0.22">
+      <rect x="158" y="432" width="82" height="8" rx="4"/><rect x="158" y="458" width="118" height="8" rx="4"/><rect x="158" y="484" width="96" height="8" rx="4"/>
+    </g>
+    <g fill="#FF5FAD">
+      <circle cx="330" cy="436" r="5"/><circle cx="454" cy="436" r="5"/><circle cx="378" cy="462" r="5"/><circle cx="552" cy="462" r="5"/><circle cx="418" cy="488" r="5"/><circle cx="632" cy="488" r="5"/>
+    </g>
+    <rect x="432" y="414" width="3" height="82" rx="1.5" fill="#FF5FAD"/>
+    <path d="M426 414 h15 l-7.5 9 Z" fill="#FF5FAD"/>
+  </g>
+
+  <g stroke-linecap="round" stroke-width="4">
+    <path d="M628 348 v-30" stroke="#FF5FAD"/><path d="M628 348 h30" stroke="#9B8CFF"/><path d="M628 348 l-18 18" stroke="#55B7E9"/>
+  </g>
+  <path d="M628 312 l-6 11 h12 Z" fill="#FF5FAD"/>
+  <path d="M664 348 l-11 -6 v12 Z" fill="#9B8CFF"/>
+  <path d="M604 372 l13 -3 l-9 -9 Z" fill="#55B7E9"/>
+  </g>
+</svg>

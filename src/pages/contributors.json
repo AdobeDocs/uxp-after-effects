@@ -1,96 +1,293 @@
 {
-  "total": 13,
+  "total": 36,
   "offset": 0,
-  "limit": 13,
+  "limit": 36,
   "data": [
     {
       "page": "/",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/31863114?v=4",
         "https://avatars.githubusercontent.com/u/153588552?v=4"
       ],
-      "lastUpdated": "9/23/2026"
+      "lastUpdated": "9/25/2026"
     },
     {
-      "page": "/api/",
+      "page": "/after-effects-api/",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
+        "https://avatars.githubusercontent.com/u/187467282?v=4",
+        "https://avatars.githubusercontent.com/u/31863114?v=4"
       ],
-      "lastUpdated": "9/23/2026"
+      "lastUpdated": "9/25/2026"
     },
     {
-      "page": "/api/1-4",
+      "page": "/after-effects-api/application",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
       ],
-      "lastUpdated": "9/23/2026"
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/characterrange",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/compitem",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/composedlinerange",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/deferredcall",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/filesource",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/folderitem",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/font",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/fonts",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/footageitem",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/guideoptions",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/importoptions",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/itemcollection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/keyframeease",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/layer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/markervalue",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/maskpropertygroup",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/omcollection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/outputmodule",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/paragraphrange",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/placeholdersource",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/property",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/renderqueue",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/renderqueueitem",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/rqitemcollection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/settings",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/shape",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/solidsource",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/textdocument",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/view",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/viewer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/viewoptions",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/123291197?v=4",
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/28/2026"
     },
     {
       "page": "/config",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4",
+        "https://avatars.githubusercontent.com/u/31863114?v=4",
         "https://avatars.githubusercontent.com/u/153588552?v=4"
       ],
-      "lastUpdated": "9/23/2026"
+      "lastUpdated": "9/28/2026"
     },
     {
-      "page": "/guides/",
+      "page": "/get-started/",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/guides/dummy_metrics_api/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/guides/dummy_oauth_client/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/guides/dummy_using_postman/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/guides/migrating/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/support/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/support/community/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/support/contribute/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
-      ],
-      "lastUpdated": "9/23/2026"
-    },
-    {
-      "page": "/support/FAQ/",
-      "avatars": [
-        "https://avatars.githubusercontent.com/u/153588552?v=4"
+        "https://avatars.githubusercontent.com/u/31863114?v=4"
       ],
       "lastUpdated": "9/23/2026"
     }
