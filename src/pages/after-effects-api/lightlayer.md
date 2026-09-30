@@ -1,6 +1,6 @@
 ---
 id: "lightlayer"
-title: "LightLayer"
+title: LightLayer
 sidebar_label: "LightLayer"
 repo: "uxp-aftereffects"
 product: "aftereffects"

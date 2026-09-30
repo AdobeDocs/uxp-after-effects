@@ -1,6 +1,6 @@
 ---
 id: "parametricmeshlayer"
-title: "ParametricMeshLayer"
+title: ParametricMeshLayer
 sidebar_label: "ParametricMeshLayer"
 repo: "uxp-aftereffects"
 product: "aftereffects"

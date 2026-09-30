@@ -1,6 +1,6 @@
 ---
 id: "layercollection"
-title: "LayerCollection"
+title: LayerCollection
 sidebar_label: "LayerCollection"
 repo: "uxp-aftereffects"
 product: "aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "shapelayer"
-title: "ShapeLayer"
+title: ShapeLayer
 sidebar_label: "ShapeLayer"
 repo: "uxp-aftereffects"
 product: "aftereffects"

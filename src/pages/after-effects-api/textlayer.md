@@ -1,6 +1,6 @@
 ---
 id: "textlayer"
-title: "TextLayer"
+title: TextLayer
 sidebar_label: "TextLayer"
 repo: "uxp-aftereffects"
 product: "aftereffects"

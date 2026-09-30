@@ -1,6 +1,6 @@
 ---
 id: "project"
-title: "Project"
+title: Project
 sidebar_label: "Project"
 repo: "uxp-aftereffects"
 product: "aftereffects"

@@ -1,6 +1,6 @@
 ---
 id: "avlayer"
-title: "AVLayer"
+title: AVLayer
 sidebar_label: "AVLayer"
 repo: "uxp-aftereffects"
 product: "aftereffects"

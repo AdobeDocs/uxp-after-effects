@@ -1,6 +1,6 @@
 ---
 id: "threedmodellayer"
-title: "ThreeDModelLayer"
+title: ThreeDModelLayer
 sidebar_label: "ThreeDModelLayer"
 repo: "uxp-aftereffects"
 product: "aftereffects"

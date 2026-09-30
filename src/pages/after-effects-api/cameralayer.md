@@ -1,7 +1,7 @@
 ---
 id: "cameralayer"
 title: "CameraLayer"
-sidebar_label: "CameraLayer"
+sidebar_label: CameraLayer
 repo: "uxp-aftereffects"
 product: "aftereffects"
 keywords:

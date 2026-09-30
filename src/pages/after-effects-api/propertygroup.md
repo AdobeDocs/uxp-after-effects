@@ -1,6 +1,6 @@
 ---
 id: "propertygroup"
-title: "PropertyGroup"
+title: PropertyGroup
 sidebar_label: "PropertyGroup"
 repo: "uxp-aftereffects"
 product: "aftereffects"
