@@ -1,7 +1,7 @@
 {
-  "total": 36,
+  "total": 47,
   "offset": 0,
-  "limit": 36,
+  "limit": 47,
   "data": [
     {
       "page": "/",
@@ -17,7 +17,7 @@
         "https://avatars.githubusercontent.com/u/187467282?v=4",
         "https://avatars.githubusercontent.com/u/31863114?v=4"
       ],
-      "lastUpdated": "9/25/2026"
+      "lastUpdated": "9/29/2026"
     },
     {
       "page": "/after-effects-api/application",
@@ -26,6 +26,20 @@
         "https://avatars.githubusercontent.com/u/187467282?v=4"
       ],
       "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/avlayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
+      "page": "/after-effects-api/cameralayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
     },
     {
       "page": "/after-effects-api/characterrange",
@@ -140,6 +154,20 @@
       "lastUpdated": "9/28/2026"
     },
     {
+      "page": "/after-effects-api/layercollection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
+      "page": "/after-effects-api/lightlayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
       "page": "/after-effects-api/markervalue",
       "avatars": [
         "https://avatars.githubusercontent.com/u/123291197?v=4",
@@ -180,6 +208,13 @@
       "lastUpdated": "9/28/2026"
     },
     {
+      "page": "/after-effects-api/parametricmeshlayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
       "page": "/after-effects-api/placeholdersource",
       "avatars": [
         "https://avatars.githubusercontent.com/u/123291197?v=4",
@@ -188,12 +223,33 @@
       "lastUpdated": "9/28/2026"
     },
     {
+      "page": "/after-effects-api/preferences",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
+      "page": "/after-effects-api/project",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
       "page": "/after-effects-api/property",
       "avatars": [
         "https://avatars.githubusercontent.com/u/123291197?v=4",
         "https://avatars.githubusercontent.com/u/187467282?v=4"
       ],
       "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/propertygroup",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
     },
     {
       "page": "/after-effects-api/renderqueue",
@@ -236,6 +292,13 @@
       "lastUpdated": "9/28/2026"
     },
     {
+      "page": "/after-effects-api/shapelayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
       "page": "/after-effects-api/solidsource",
       "avatars": [
         "https://avatars.githubusercontent.com/u/123291197?v=4",
@@ -250,6 +313,20 @@
         "https://avatars.githubusercontent.com/u/187467282?v=4"
       ],
       "lastUpdated": "9/28/2026"
+    },
+    {
+      "page": "/after-effects-api/textlayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
+    },
+    {
+      "page": "/after-effects-api/threedmodellayer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/187467282?v=4"
+      ],
+      "lastUpdated": "9/30/2026"
     },
     {
       "page": "/after-effects-api/view",
@@ -282,7 +359,7 @@
         "https://avatars.githubusercontent.com/u/31863114?v=4",
         "https://avatars.githubusercontent.com/u/153588552?v=4"
       ],
-      "lastUpdated": "9/28/2026"
+      "lastUpdated": "9/29/2026"
     },
     {
       "page": "/get-started/",
