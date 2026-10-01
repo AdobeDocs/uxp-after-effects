@@ -389,8 +389,8 @@ Replaces all usages of the `fromFont` Font object with the `toFont` Font object 
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| fromFont | [*Font*](/ae_reference/classes/font.md) | The Font to be replaced. |
-| toFont | [*Font*](/ae_reference/classes/font.md) | The Font to replace it with. |
+| fromFont | [*Font*](./font.md) | The Font to be replaced. |
+| toFont | [*Font*](./font.md) | The Font to replace it with. |
 | noFontLocking | *boolean* | Optional, defaults to `false`. By default, a fallback font with the necessary glyphs is substituted if `toFont` is missing glyphs for the affected text. Set to `true` to disable this fallback, which may result in missing glyphs. |
 
 <HorizontalLine />

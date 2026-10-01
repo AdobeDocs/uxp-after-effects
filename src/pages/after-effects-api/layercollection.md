@@ -172,7 +172,7 @@ Creates a new point text layer with TextDocument.lineOrientation set to LineOrie
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| sourceText | *string* or [*TextDocument*](/ae_reference/classes/textdocument.md) | Optional. The source text of the new layer, or a TextDocument object containing the source text of the new layer. |
+| sourceText | *string* or [*TextDocument*](./textdocument.md) | Optional. The source text of the new layer, or a TextDocument object containing the source text of the new layer. |
 
 <HorizontalLine />
 
@@ -205,7 +205,7 @@ Creates a new point text layer with TextDocument.lineOrientation set to LineOrie
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| sourceText | *string* or [*TextDocument*](/ae_reference/classes/textdocument.md) | Optional. The source text of the new layer, or a TextDocument object containing the source text of the new layer. |
+| sourceText | *string* or [*TextDocument*](./textdocument.md) | Optional. The source text of the new layer, or a TextDocument object containing the source text of the new layer. |
 
 <HorizontalLine />
 
